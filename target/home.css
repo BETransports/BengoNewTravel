@@ -1,0 +1,1193 @@
+/* RESPONSIVIDADE 1000PX */
+@media (max-width: 2000px) {
+
+    .logo img {
+        width: 80px;
+    }
+
+    .logo h2 {
+        font-size: 25px;
+    }
+
+    .logo p {
+        font-size: 20px;
+    }
+
+    main p {
+        font-size: 20px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        width: 30%;
+    }
+
+    .dica {
+        width: 100%;
+    }
+
+    .dica p {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 10%;
+    }
+
+    .texto-principal {
+        width: 90%;
+        font-size: 2pc;
+    }
+
+    .primeiro-card .card-item h3 {
+        font-size: 1rem;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+
+    .primeiro-card .card-item button {
+        width: 30%;
+        height: 2pc;
+    }
+
+    .video-area {
+        width: 90%;
+    }
+
+    .video-area video {
+        width: 90%;
+    }
+
+    .video-area .container {
+        text-align: center;
+    }
+
+}
+
+
+/* RESPONSIVIDADE 1350PX */
+@media (max-width: 1350px) {
+    .main1 .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-text1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    #contato {
+        width: 80%;
+    }
+
+}
+
+
+
+/* RESPONSIVIDADE 1000PX */
+@media (max-width: 1000px) {
+
+    .logo img {
+        width: 80px;
+    }
+
+    .logo h2 {
+        font-size: 32px;
+    }
+
+    .logo p {
+        font-size: 20px;
+    }
+
+    main p {
+        font-size: 20px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        width: 40%;
+    }
+
+    .dica {
+        width: 100%;
+    }
+
+    .dica p {
+        font-size: 100%;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        width: 90%;
+        font-size: 100%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+
+    .primeiro-card .card-item button {
+        width: 30%;
+        height: 2pc;
+    }
+
+    .video-area {
+        width: 90%;
+    }
+
+    .video-area video {
+        width: 90%;
+    }
+
+    .video-area .container {
+        text-align: center;
+    }
+
+    .slider .slides {
+        width: 100%;
+    }
+
+    .slider .slide img {
+        width: 190px;
+        height: 300px;
+    }
+
+    .main1 .container {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .main1 .main-text1 {
+        width: 90%;
+    }
+
+    .slider1 .slides1 {
+        width: 80%;
+    }
+
+    .slider1 .slide1 img {
+        width: 190px;
+    }
+
+}
+
+/* RESPONSIVIDADE 915PX */
+@media (max-width: 915px) {
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+
+}
+
+/* RESPONSIVIDADE 900PX */
+@media (max-width: 900px) {
+
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+/* 875px */
+@media (max-width: 875px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+/* 875px */
+@media (max-width: 872px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+/* 875px */
+@media (max-width: 873px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+
+    .slider .slides {
+        width: 90%;
+    }
+
+    .slider .slide img {
+        width: 190px;
+        height: 260px;
+    }
+
+    .main1 .container {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .main1 .main-text1 {
+        width: 100%;
+    }
+
+    .slider1 .slides1 {
+        width: 90%;
+    }
+
+    .slider1 .slide1 img {
+        width: 180px;
+        height: 250px;
+    }
+}
+
+/* 875px */
+@media (max-width: 872px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+
+    .slider .slides {
+        width: 90%;
+    }
+
+    .slider .slide img {
+        width: 190px;
+        height: 260px;
+    }
+
+    .main1 .container {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .main1 .main-text1 {
+        width: 100%;
+    }
+
+    .slider1 .slides1 {
+        width: 90%;
+    }
+
+    .slider1 .slide1 img {
+        width: 180px;
+        height: 250px;
+    }
+}
+
+/* 875px */
+@media (max-width: 871px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+
+}
+
+
+/* 875px */
+@media (max-width: 870px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 60px;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+
+/* 875px */
+@media (max-width: 871px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 2.4rem;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 35%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+
+
+    footer .container {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+/* 600px */
+@media (max-width: 600px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 2rem;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .slider {
+        width: 100%;
+    }
+
+    .slider .slide img {
+        width: 180px;
+        height: 300px;
+    }
+
+    .slider1 {
+        width: 100%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 80%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+/* 500px */
+@media (max-width: 500px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    .logo img {
+        width: 25%;
+    }
+
+    .logo .logo-text h2 {
+        font-size: 26px;
+    }
+
+    .logo .logo-text p {
+        font-size: 15px;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 2rem;
+    }
+
+    main .btn-main {
+        width: 12pc;
+        font-size: 13px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .slider {
+        width: 100%;
+        background-color: #ddd;
+    }
+
+    .slider .slide img {
+        width: 145px;
+        height: 250px;
+    }
+
+    .slider1 {
+        width: 100%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 80%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+/* 400px */
+@media (max-width: 400px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    .logo img {
+        width: 20%;
+    }
+
+    .logo .logo-text h2 {
+        font-size: 20px;
+    }
+
+    .logo .logo-text p {
+        font-size: 13px;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 2rem;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .slider {
+        width: 100%;
+        background-color: #ddd;
+    }
+
+    .slider .slide img {
+        width: 145px;
+        height: 250px;
+    }
+
+    .slider1 {
+        width: 100%;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 80%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+/* 300px */
+@media (max-width: 300px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    .menu-mob img {
+        width: 100%;
+    }
+
+    .logo img {
+        width: 10%;
+    }
+
+    .logo .logo-text h2 {
+        font-size: 20px;
+    }
+
+    .logo .logo-text p {
+        font-size: 13px;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 2rem;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica p {
+        font-size: 10px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .slider {
+        width: 100%;
+        height: 350px;
+        background-color: #ddd;
+    }
+
+    .slider .slides {
+        height: 350px;
+    }
+
+    .main1 .container .slider1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #ddd;
+        width: 130%;
+    }
+
+    .main1 .container .slider1 .slide1 img {
+        width: 100px;
+        height: 200px;
+        margin-top: 20px;
+    }
+
+    .main1 .container .formula {
+        width: 120%;
+    }
+
+    .slider .slide img {
+        width: 80px;
+        height: 160px;
+    }
+
+    .slider1 {
+        width: 100%;
+    }
+
+    .slider1 .slide1 img {
+        width: 85px;
+        height: 160px;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 80%;
+    }
+
+    .primeiro-card .card-item img {
+        height: 50%;
+        width: 96%;
+    }
+
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
+
+/* 250px */
+@media (max-width: 250px) {
+
+    body {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    .logo img {
+        width: 20%;
+    }
+
+    .logo .logo-text h2 {
+        font-size: 12px;
+    }
+
+    .logo .logo-text p {
+        font-size: 12px;
+    }
+
+    main p {
+        font-size: 16px;
+    }
+
+    main h1 {
+        font-size: 1.4rem;
+    }
+
+    main .btn-main {
+        height: 4pc;
+        font-size: 20px;
+    }
+
+    .dica {
+        font-size: 30px;
+    }
+
+    .dica img {
+        width: 20%;
+    }
+
+    .slider {
+        width: 100%;
+        height: auto;
+        background-color: #ddd;
+    }
+
+    .slider .slides {
+        height: 350px;
+    }
+
+    .slider .slide img {
+        width: 80px;
+        height: auto;
+    }
+
+    .slider1 {
+        width: 100%;
+    }
+
+    .slider1 .slide1 img {
+        width: 85px;
+        height: auto;
+    }
+
+    .texto-principal {
+        font-size: 140%;
+    }
+
+    .primeiro-card .card-item {
+        width: 80%;
+    }
+
+    .primeiro-card .card-item img {
+        height: auto;
+        width: 96%;
+    }
+
+    .primeiro-card .card-item h3 {
+        font-size: 1pc;
+    }
+
+    .primeiro-card .card-item p {
+        font-size: 15px;
+    }
+}
