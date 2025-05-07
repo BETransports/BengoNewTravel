@@ -28,39 +28,26 @@ ul li {
 }
 
 ul li:hover {
-    transform: translate(3px, 3px);
-}
-
-ul li a:hover {
-    color: #858686;
+    transform: translate(.8px, .8px);
 }
 
 ul button {
     width: 150px;
     height: 30px;
     border: none;
+    cursor: pointer;
     border-radius: 6px;
-    background-color: #f5deb3;
+    background-color: #2e8b57;
 }
-
-ul button a {
-    color: black;
-}
-
-h1 span {
-    color: #f5deb3;
-}
-
 
 .logo {
     display: flex;
     align-items: center;
 }
 
-.logo .logo-text span,
-.logo .logo-text p {
+.logo .logo-text span{
     /* color: rgb(79, 194, 44); */
-    color: #f5deb3;
+    color: #2e8b57;
 }
 
 .menu-mob {
@@ -99,7 +86,6 @@ main p {
 
 main p span {
     text-decoration: underline;
-    color: #f5deb3;
     font-weight: 600;
     /* color: rgb(9, 231, 9); */
 }
@@ -110,7 +96,7 @@ main .btn-main {
     border: none;
     color: white;
     border-radius: 30px;
-    background-color: #f5deb3;
+    background-color: #2e8b57;
     cursor: pointer;
     margin: 10px;
     letter-spacing: 2px;
@@ -140,20 +126,20 @@ main .btn-main {
     height: 2%;
     padding: 2px;
     border-radius: 6px;
-    background-color: #f5deb3;
+    background-color: wheat;
 }
 
 .item-questao button {
     border: none;
     margin-left: 20px;
-    background-color: #f5deb3;
+    background-color: wheat;
     padding: 5px;
     cursor: pointer;
 }
 
 .resposta1 {
     margin-top: -15px;
-    background-color: #fdeccc;
+    background-color: rgb(253, 238, 209);
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     padding: 10px;
@@ -174,7 +160,7 @@ main .btn-main {
 
 .resposta2 {
     margin-top: -15px;
-    background-color: #fdeccc;
+    background-color: rgb(253, 238, 209);
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     padding: 10px;
@@ -267,12 +253,12 @@ main .btn-main {
     border-radius: 10px;
     cursor: pointer;
     transition: 1s;
-    border: 1px solid orange;
+    border: 1px solid #2e8b57;
     box-shadow: 5px 5px 15px rgba(13, 14, 13, .3);
 }
 
 .manual-btn1:hover {
-    background-color: orange;
+    background-color: #2e8b57;
 }
 
 .manual-btn1:not(:last-child) {
@@ -342,7 +328,7 @@ form button {
 .item form button {
     color: white;
     cursor: pointer;
-    background-color: orangered;
+    background-color: #2e8b57;
 }
 
 .item form img {
@@ -361,8 +347,7 @@ form button {
 footer {
     margin-top: 30px;
     text-align: center;
-    color: black;
-    background-color: wheat;
+    background-color: #2e8b57;
 }
 
 footer .container {

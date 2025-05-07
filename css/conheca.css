@@ -28,24 +28,16 @@ ul li {
 }
 
 ul li:hover {
-    transform: translate(3px, 3px);
-}
-
-ul li a:hover {
-    color: #858686;
+    transform: translate(.8px, .8px);
 }
 
 ul button {
     width: 150px;
     height: 30px;
     border: none;
+    cursor: pointer;
     border-radius: 6px;
-    background-color: #5aafff;
-}
-
-
-h1 span {
-    color: #5aafff;
+    background-color: #2e8b57;
 }
 
 .logo {
@@ -53,9 +45,8 @@ h1 span {
     align-items: center;
 }
 
-.logo span,
-.logo p {
-    color: #5aafff;
+.logo span{
+    color: #2e8b57;
 }
 
 .menu-mob {
@@ -94,7 +85,6 @@ main p {
 
 main p span {
     text-decoration: underline;
-    color: #5aafff;
     font-weight: 600;
     /* color: rgb(9, 231, 9); */
 }
@@ -105,7 +95,7 @@ main .btn-main {
     border: none;
     color: white;
     border-radius: 30px;
-    background-color: #5aafff;
+    background-color: #2e8b57;
     cursor: pointer;
     margin: 10px;
     letter-spacing: 2px;
@@ -120,7 +110,7 @@ main .btn-main {
     justify-content: center;
 }
 
-.quadro{
+.quadro {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -201,7 +191,7 @@ main .btn-main {
 footer {
     margin-top: 30px;
     text-align: center;
-    background-color: rgb(0, 132, 255);
+    background-color: #2e8b57;
     ;
 }
 

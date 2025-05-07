@@ -32,25 +32,22 @@ ul li {
 }
 
 ul li:hover {
-    transform: translate(3px, 3px);
-}
-
-ul li a:hover {
-    color: #858686;
+    transform: translate(.8px, .8px);
 }
 
 ul button {
     width: 150px;
     height: 30px;
     border: none;
+    cursor: pointer;
     border-radius: 6px;
-    background-color: #b3ccb3;
+    background-color: #2e8b57;
 }
 
 
 .logo h2 span,
 .logo p {
-    color: #849984;
+    color: #2e8b57;
 }
 
 
@@ -95,7 +92,7 @@ main p {
 
 main p span {
     text-decoration: underline;
-    color: #b3ccb3;
+    color: #2e8b57;
 }
 
 main .btn-main {
@@ -104,7 +101,7 @@ main .btn-main {
     border: none;
     color: white;
     border-radius: 30px;
-    background-color: #b3ccb3;
+    background-color: #2e8b57;
     cursor: pointer;
     letter-spacing: 2px;
     margin-top: 30px;
@@ -138,7 +135,7 @@ section {
 }
 
 .texto-principal span {
-    color: #b3ccb3;
+    color: #2e8b57;
 }
 
 
