@@ -1,5 +1,3 @@
-<div id="google_translate_element">
-    
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -42,13 +40,9 @@
                     <li><a href="php/cadastrar.php"><img src="icons/icons/agendar.png" width="30" alt="calendar"
                                 title="agendar"></a>
                     </li>
+
                     <li>
-                        <script type="text/javascript">
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({pageLanguage: 'pt'}, 'google_translate_element');
-  }
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                        <div id="google_translate_element"></div>
                     </li>
 
                     <li id="relogio">
@@ -188,7 +182,7 @@
             </p>
             <h3>Clima</h3>
             <div class="imagens">
-                <img src="src/historial/clima2.JPG" alt="clima">
+                <img src="src/historial/clima.jpg" alt="clima">
                 <img src="src/historial/clima2.JPG" alt="clima2">
             </div>
             <p class="paragrafoMain">
@@ -303,10 +297,15 @@
     <!-- fim criar footer ou rodapé -->
 
     <!-- importer js -->
+     
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'pt'}, 'google_translate_element');
+        }
+      </script>
+      <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script src="js/menu_mob.js"></script>
     <script src="js/tempo.js"></script>
 </body>
 
 </html>
-
-</div>
